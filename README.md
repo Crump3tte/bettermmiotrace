@@ -19,13 +19,12 @@ Shameless firmware plug: https://discord.gg/shillette
 5. [Verify IOMMU Activation](#verify-iommu-activation)
 6. [Install Dependencies and Clone QEMU](#install-dependencies-and-clone-qemu)
 7. [Build and Install QEMU with Tracing](#build-and-install-qemu-with-tracing)
-8. [Collect Trace Event Definitions](#collect-trace-event-definitions)
-9. [Configure VFIO PCI Binding](#configure-vfio-pci-binding)
-10. [Update Initramfs](#update-initramfs)
-11. [List IOMMU Groups](#list-iommu-groups)
-12. [Create a QCOW2 Disk Image](#create-a-qcow2-disk-image)
-13. [Launch a Windows VM](#launch-a-windows-vm)
-14. [Launch QEMU with VFIO and Tracing](#launch-qemu-with-vfio-and-tracing)
+8. [Configure VFIO PCI Binding](#configure-vfio-pci-binding)
+9. [Update Initramfs](#update-initramfs)
+10. [List IOMMU Groups](#list-iommu-groups)
+11. [Create a QCOW2 Disk Image](#create-a-qcow2-disk-image)
+12. [Launch a Windows VM](#launch-a-windows-vm)
+13. [Launch QEMU with VFIO and Tracing](#launch-qemu-with-vfio-and-tracing)
 
 ---
 

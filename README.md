@@ -32,7 +32,7 @@ Shameless firmware plug: https://discord.gg/shillette
 
 * A modern Linux distribution (e.g., Arch Linux, Manjaro).
 * Root or sudo access.
-* CPU and motherboard support for virtualization (VT-x/AMD-V) and IOMMU (VT-d/AMD IOMMU).
+* CPU and motherboard support for virtualization (VT-x/SVM) and IOMMU (VT-d/AMD IOMMU).
 * Familiarity with shell commands, editing system files, and rebuilding initramfs.
 
 ---
